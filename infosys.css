@@ -1,0 +1,377 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.body{
+    font-family: myriad-pro, Arial;
+}
+.logo2{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.logo{
+    background-image: url(11.avif);
+    background-size: cover;
+    height: 703px;
+    width: 1647px;
+    padding-bottom: 72px;
+    margin-left: -128px;
+    
+}
+.logo img{
+    margin-left: 290px;
+    margin-top: -40px;
+}
+
+.ul li{
+    text-decoration: none;
+    list-style: none;
+    color: aliceblue;
+    justify-content: space-around;
+    margin-top: 50px;
+    font-size: 16px;
+    
+}
+.navbar1 ul{
+    display: flex;
+    gap: 40px;
+    margin-left: 420px;
+}
+.navbar1 ul li{
+    font-size: 15px;
+}
+.body nav{
+    top: 0;
+    position: sticky;
+}
+.navbar1 ul li:hover{
+    text-decoration: underline;
+}
+
+
+
+.navbar{
+    position: sticky;
+    top: 0;
+}
+
+.navbar1{
+    display: flex;
+}
+.navbar1 img{
+    margin-top: 50px;
+    margin-left: 255px;
+    
+}
+.para{
+    color: white;
+    font-family: tungstenw05-medium, Oswald, sans-serif;
+    font-size: 52px;
+    margin-left: 250px;
+    margin-top: 150px;
+}
+.button{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    letter-spacing: 3px;
+    margin-left: 255px;
+    margin-top: 20px;
+}
+.button:hover{
+    background-color: black;
+    color: white;
+}
+
+.butterfly{
+    height: 100px;
+    width: 1519px;
+    background-color: rgb(194, 134, 23);
+    height: 776px;
+    width: 100%;
+    margin-top: 147px;
+}
+.imgbut img{
+    margin-top: 60px;
+    margin-left: 790px;
+    background-size: cover;
+}
+.para1{
+    margin-left: 255px;
+    color: white;
+    font-family: tungstenw05-medium, Oswald, sans-serif;
+    font-size: 62px;
+    margin-top: -600px;
+}
+.bulid{
+    margin-left: 255px;
+    font-family: myriad-pro, Arial;
+    font-style: italic;
+    color: white;
+    margin-top: 20px;
+    font-size: 21px;
+}
+.button1{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    letter-spacing: 2px;
+    margin-left: 255px;
+    margin-top: 70px;
+}
+.button1:hover{
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+}
+.case{
+    margin-left: 255px;
+    color: rgb(95, 77, 70);
+    margin-top: 20px;
+   
+}
+.h1{
+    margin-left: 255px;
+    color: white;
+    
+    
+}
+.h2{
+    color: white;
+    margin-left: 40px;
+}
+.head{
+    display: flex;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.view1{
+    margin-left: 255px;
+    margin-top: 10px;
+    color: white;
+}
+.view2{
+    margin-left: 550px;
+    margin-top: -40px;
+    color: white;
+}
+.wood{
+    
+    height: 100px;
+    width: 1519px;
+    background-color: rgb(12, 106, 125);
+    height: 776px;
+    width: 100%;
+}
+.imgfly img{
+    margin-top: 70px;
+    margin-left: 128px;
+}
+.jk{
+    margin-left:650px;
+}
+.client{
+    display: flex;
+    color: rgb(162, 219, 241);
+}
+.case2{
+    color: rgb(162, 219, 241);
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.case1{
+    margin-left: 255px;
+    color: rgb(162, 219, 241);
+    margin-top: 20px;
+   
+}
+.butterfly2{
+    height: 100px;
+    width: 1519px;
+    background-color: rgb(187, 36, 177);
+    height: 776px;
+    width: 100%;
+
+}
+.imgbut2 img{
+    margin-top: 60px;
+    margin-left: 165px;
+}
+.para2{
+    margin-left: 255px;
+    color: white;
+    font-family: tungstenw05-medium, Oswald, sans-serif;
+    font-size: 62px;
+    margin-top: -600px;
+}
+.buli2{
+    margin-left: 255px;
+    font-family: myriad-pro, Arial;
+    font-style: italic;
+    color: white;
+    margin-top: 20px;
+    font-size: 21px;
+}
+.button3{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    letter-spacing: 2px;
+    margin-left: 255px;
+    margin-top: 70px;
+}
+.button3:hover{
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+}
+.case3{
+    margin-left: 255px;
+    color: rgb(95, 77, 70);
+    margin-top: 20px;
+   
+}
+.h12{
+    margin-left: 255px;
+    color: white;
+    
+    
+}
+.h22{
+    color: white;
+    margin-left: 40px;
+}
+.head2{
+    display: flex;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.view12{
+    margin-left: 255px;
+    margin-top: 10px;
+    color: white;
+}
+.view22{
+    margin-left: 550px;
+    margin-top: -40px;
+    color: white;
+}
+.line{
+    text-align: center;
+    margin-top: 50px;
+}
+.papa{
+    margin-left: 300px;
+    font-size: 50px;
+    font-family: tungstenw05-medium, Oswald, sans-serif;
+    font-weight: 500px;
+}
+.line img{
+    font-style: 50px;
+    margin-bottom: -15px;
+}
+.papa1{
+    margin-left: 300px;
+    font-size: 40px;
+    margin-top: 10px;
+    color: rgb(215, 215, 215);
+}
+
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    grid-template-rows: repeat(3,auto);
+    margin: 20px;
+   padding-left: 400px;
+   padding-right: 200px;
+}
+.ch1{
+    grid-row-start: 1;
+    grid-row-end: 3;
+    height: 400px;
+    background-image: url(111.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+.ch2{
+    background-image: url(121.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ch3{
+    background-image: url(122.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ch4{
+    background-image: url(123.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ch5{
+    background-image: url(124.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.c1:hover{
+    .a11{
+    display: block;
+    }
+}
+.a11{
+    display: none;
+}
+.ch1 p{
+    color: white;
+    font-family: tungstenw05-medium, Oswald, sans-serif;
+    font-size: 22px;
+    margin-top: 370px;
+} 
+.ch3 p{
+    color: white;
+    font-family: tungstenw05-medium, Oswald, sans-serif;
+    position: relative;
+    top: 170px;
+    font-size: 20px;
+}
+.a1{
+    color: white;
+    font-family: tungstenw05-medium, Oswald, sans-serif;
+    position: relative;
+    top: 170px;
+    font-size: 20px;
+}  
+.a3{
+    color: white;
+    font-family: tungstenw05-medium, Oswald, sans-serif;
+    position: relative;
+    top: 170px;
+    font-size: 20px;
+}
+.a4{
+    color: white;
+    font-family: tungstenw05-medium, Oswald, sans-serif;
+    position: relative;
+    top: 170px;
+    font-size: 20px;
+}
+.a11{
+    background-color: black;
+}
+
