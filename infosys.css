@@ -375,3 +375,75 @@
     background-color: black;
 }
 
+.foot{
+    margin-left: 128px;
+    
+}
+
+.foot-pannnel2{
+    background-color: rgb(241, 240, 240);
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+ul{
+    margin-top: 20px;
+}
+ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 20px;
+    color: black;
+}
+ul a:hover{
+    text-decoration: underline;
+}
+ul p{
+    color: black;
+    font-size: 20px;
+}
+.com{
+    display: flex;
+    gap: 60px;
+}
+.copy{
+    margin-left: 250px;
+    font-size: 20px;
+    color: rgb(116, 109, 109);
+    margin-top: 30px;
+}
+.cladd{
+    display: flex;
+}
+.cladd1{
+    color: rgb(116, 109, 109);
+    gap: 40px;
+    margin-top: 30px;
+    margin-left: -10px;
+    font-size: 19px;
+}
+.div{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(131, 20, 139);
+}
+.grid1{
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+   
+    
+}
+.cf1,.cf2{
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    margin-left: 250px;
+}
+.cf3,.cf4{
+    border: 2px solid black;
+    height: 100px;
+    width: 120px;
+    margin-left: 250px;                         
+}
+
