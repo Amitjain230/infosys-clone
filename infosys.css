@@ -447,3 +447,47 @@ ul p{
     margin-left: 250px;                         
 }
 
+.gridd{
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    grid-template-rows: repeat(3,auto);
+    margin: 20px;
+   padding-left: 400px;
+   padding-right: 200px;
+}
+.ch11{
+    grid-row-start: 1;
+    grid-row-end: 3;
+    height: 400px;
+    background-image: url(111.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+.ch22{
+    background-image: url(121.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ch33{
+    background-image: url(122.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ch44{
+    background-image: url(123.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ch55{
+    background-image: url(124.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ch11:hover{
+    .a111{
+    display: block;
+    }
+}
+
