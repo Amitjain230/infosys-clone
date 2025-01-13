@@ -458,36 +458,68 @@ ul p{
 .ch11{
     grid-row-start: 1;
     grid-row-end: 3;
-    height: 400px;
-    background-image: url(111.avif);
-    background-size: cover;
-    background-repeat: no-repeat;
+    height: 600px;
+    background-color: rgba(255, 166, 0, 0.427);
     grid-column-start: 1;
     grid-column-end: 3;
 }
 .ch22{
-    background-image: url(121.avif);
+    
+    background-image: url(21.avif);
     background-size: cover;
     background-repeat: no-repeat;
 }
 .ch33{
-    background-image: url(122.avif);
+    background-image: url(22.avif);
     background-size: cover;
     background-repeat: no-repeat;
 }
 .ch44{
-    background-image: url(123.avif);
+    background-image: url(23.avif);
     background-size: cover;
     background-repeat: no-repeat;
 }
 .ch55{
-    background-image: url(124.webp);
+    background-image: url(24.avif);
     background-size: cover;
     background-repeat: no-repeat;
 }
-.ch11:hover{
-    .a111{
-    display: block;
-    }
+.a11{
+    color: white;
+    font-family: tungstenw05-medium, Oswald, sans-serif;
+    position: relative;
+    top: 170px;
+    font-size: 20px;
+}  
+.a33{
+    color: white;
+    font-family: tungstenw05-medium, Oswald, sans-serif;
+    position: relative;
+    top: 170px;
+    font-size: 20px;
 }
+.a44{
+    color: white;
+    font-family: tungstenw05-medium, Oswald, sans-serif;
+    position: relative;
+    top: 170px;
+    font-size: 20px;
+}
+.a55{
+    color: white;
+    font-family: tungstenw05-medium, Oswald, sans-serif;
+   
+    font-size: 20px;
+}
+.imar{
+    margin-top: 45px;
+}
+.imar img:hover{
+    
+}
+.imar:hover{
+    scale: 1.1;
+}
+
+
 
